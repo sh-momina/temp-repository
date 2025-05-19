@@ -1,4 +1,4 @@
 # temp-repository
 first Git repository
 <br>
-Author - Momina
+Author - Momina (Student of Software Engineering)
